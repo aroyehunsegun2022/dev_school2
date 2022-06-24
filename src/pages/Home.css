@@ -1,0 +1,164 @@
+#headercontent{
+    background-color: #F0F0EE ;
+    
+}
+
+#paragr{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#header1{
+    margin-top: 60px;
+    margin-bottom: 20px;
+    text-align: center;
+
+    
+}
+
+#imageheader{
+    width: 80%;
+    height: 70%;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-left: 8rem;
+}
+
+ 
+
+h2{
+    margin-top: 2rem;
+    margin-left: 5rem;
+    text-align: justify;
+
+}
+
+#contentSecondb{
+    margin-top: 30px;
+    text-align: justify;
+    margin-left: 5rem;
+}
+
+
+
+.boxes{
+    border: 1px solid #B2EDDB;
+    width: 150px;
+    height: 200px;
+    margin-top: 150px;
+    padding: 40px;
+    border-radius: 20px;
+    background-color: #EFFDFA;
+}
+
+.firstIcon{
+    font-size: x-large;
+    font-weight: bolder;
+    color: #0CB582;
+}
+
+.secondTopics{
+    color: #0CB582;}
+
+#SecondBody{
+    margin-bottom: 8rem;
+}
+#secondbodycl{
+    margin-bottom: -40px;
+    margin-top: 70px;
+}
+
+#submits{
+    margin-left: 10rem;
+}
+
+#infotext{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+#textcourse{
+    text-align: center;
+}
+
+#nextbatch{
+    background-color: #0CB582 ;
+    width: 30rem;
+    margin-left: 40px;
+    margin-top: 20px;
+    border-radius: 20px;
+    padding: 20px;
+    color: white;
+}
+
+#submits{
+    color: white;
+    background-color: #283C66;
+}
+ 
+ 
+.thirboxes{
+    border: 1px solid #B2EDDB;
+    border-radius: 20px;
+    height: 100px;
+    width: 350px;
+    margin-left: 35px;
+    margin-top: 20px;
+}
+
+.iconinside{
+    height: 70px;
+    width: 60px;
+    margin-top: 15px;
+    margin-left: 8px;
+    margin-right: 15px;
+
+            
+}
+
+.textsss{
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+#thirdbg{
+     background-color: #F7F9FB;
+     padding: 30px;
+     padding-bottom: 100px;
+     margin-bottom: 110px;
+     border-radius: 15rem 10px 10rem 10px;
+}
+ 
+
+
+#h2edit{
+    font-weight: bolder;
+    margin-top: 15px;
+    margin-left: 600px;
+    margin-bottom: 50px;
+}
+
+#editstuden{
+    width: 50rem;
+    margin-left: 20rem;
+}
+
+#captionss{
+    color: white;
+    margin-bottom: -20px;
+}
+
+
+#carousells{
+    margin-bottom: 50px;
+}
+ 
+
+#subtopic{
+    margin-top: 9rem;
+}

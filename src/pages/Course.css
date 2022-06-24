@@ -1,0 +1,52 @@
+.iconsprogramming{
+    width: 50px;
+
+}
+
+.headings{
+    font-size: x-large;
+    font-weight: bolder;
+    margin-left: 20px;
+}
+
+.paras{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+#coursemodules{
+    margin-bottom: 5rem;
+    margin-left: 90px;
+    margin-top: 5rem;
+}
+
+#toppara{
+    font-style: italic;
+    color: grey;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+@media screen and (max-width: 414px) {
+    /* .paras{
+        display: none;
+    }
+    .iconsprogramming{
+        width: 20px;
+    }
+
+    .headings{
+        font-size:small;
+        
+    } */
+
+    /* .col-4{
+        width: 70%;
+        margin-left: 20px;
+    } */
+
+}

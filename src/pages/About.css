@@ -1,0 +1,19 @@
+#imagesedi{
+    width: 30rem;
+    margin-left: 10rem;
+    margin-top: 5rem;
+    margin-bottom: 13rem;
+    border-radius: 10px;
+}
+#textscont{
+    margin-top: 4rem;
+    margin-left: 14rem;
+    text-align: Justify;
+}
+
+
+#headerabout{
+    margin-left: 17em;
+    margin-top: 5rem;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}

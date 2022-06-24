@@ -1,0 +1,17 @@
+#navs{
+    height: 5rem;
+    font-size: larger;
+
+}
+
+#nav2{
+    margin-left: 60rem;
+    letter-spacing: 2px;    
+
+}
+
+@media all and (max-width: 375px) {
+  
+
+}
+    
